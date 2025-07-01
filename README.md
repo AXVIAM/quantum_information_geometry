@@ -2,7 +2,7 @@
 
 **Author:** Christopher Patrick Booth Smolen  
 **Affiliation:** AXVIAM PBC  
-**License:** Apache 2.0 License  
+**License:** MIT License  
 **Repository:** [https://github.com/axviam/quantum-information-geometry](https://github.com/axviam/quantum-information-geometry)
 
 ---
@@ -75,7 +75,7 @@ QIR matches observations *without requiring dark matter or dark energy.*
 
 The full theory, derivations, and observational results are published here:
 
-📄 [QIR Engine Whitepaper (PDF)](https://zenodo.org/record/XXXXXXX)  
+📄 [QIR Engine Whitepaper (PDF)](https://doi.org/10.5281/zenodo.15779147)  
 📄 Cover letter + summary: `cover_letter_intro_to_qir.txt`  
 📄 Supplementary proofs and black hole framework: See `/docs` (if applicable)
 
@@ -108,7 +108,7 @@ python3 qir_black_hole_entropy.py
 To cite this work:
 
 ```bibtex
-Smolen, C.P.B. (2025). Quantum Information Geometry: A Memory-Based Extension to General Relativity. Zenodo. https://zenodo.org/record/XXXXXXX
+Smolen, C.P.B. (2025). Quantum Information Geometry: A Memory-Based Foundation for Spacetime Curvature. Zenodo. https://doi.org/10.5281/zenodo.15779147
 ```
 
 ---
