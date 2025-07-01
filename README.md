@@ -82,19 +82,19 @@ The full theory, derivations, and observational results are published here:
 To compare predictions:
 
 ```bash
-python3 compare_qir_vs_gr.py
+python3 scripts/tests_and_data/compare_qir_vs_gr.py
 ```
 
 To visualize memory-driven cosmic structure:
 
 ```bash
-python3 qig_cosmic_web_refined.py
+python3 scripts/cosmic_structure/qig_cosmic_web_refined.py
 ```
 
 To simulate black hole entropy:
 
 ```bash
-python3 qir_black_hole_entropy.py
+python3 scripts/black_hole_modeling/qir_black_hole_entropy.py
 ```
 
 ---
