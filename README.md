@@ -77,6 +77,15 @@ The full theory, derivations, and observational results are published here:
 
 ---
 
+## Installation
+
+Install the Python dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+
 ## 🚀 Running the Model
 
 To compare predictions:
