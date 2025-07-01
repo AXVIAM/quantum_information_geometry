@@ -79,7 +79,7 @@ The full theory, derivations, and observational results are published here:
 
 ## Installation
 
-Install the Python dependencies:
+Install the Python dependencies and run from the repository root:
 
 ```bash
 pip install -r requirements.txt
@@ -91,7 +91,7 @@ pip install -r requirements.txt
 To compare predictions:
 
 ```bash
-python3 scripts/tests_and_data/compare_qir_vs_gr.py
+python3 -m scripts.tests_and_data.compare_qir_vs_gr
 ```
 
 To visualize memory-driven cosmic structure:

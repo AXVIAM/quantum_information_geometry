@@ -8,8 +8,8 @@ Purpose: Predict galactic rotation curves from memory-based curvature without da
 
 import numpy as np
 import matplotlib.pyplot as plt
-from core_engine.memory_function_phase import I_phase
-from core_engine.qir_curvature_model import qir_curvature
+from .memory_function_phase import I_phase
+from .qir_curvature_model import qir_curvature
 
 def predict_velocity(r, M, D, a=1.0, b=0.7, T=200, G=6.67430e-11):
     """
