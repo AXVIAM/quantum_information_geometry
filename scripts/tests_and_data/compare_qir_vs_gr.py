@@ -7,7 +7,7 @@ Purpose: Compare gravitational lensing predictions from General Relativity and Q
 """
 
 import numpy as np
-from core_engine.qir_predict_lensing import predict_lensing_angle
+from ..core_engine.qir_predict_lensing import predict_lensing_angle
 
 def arcsec(radians):
     return radians * (180 / np.pi) * 3600
