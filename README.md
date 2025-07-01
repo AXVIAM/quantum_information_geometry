@@ -2,20 +2,16 @@
 
 **Author:** Christopher Patrick Booth Smolen  
 **Affiliation:** AXVIAM PBC  
-**License:** MIT License  
+**License:** Apache 2.0  
 **Repository:** [https://github.com/axviam/quantum-information-geometry](https://github.com/axviam/quantum-information-geometry)
 
 ---
 
 ## 🧠 Overview
 
-This repository implements the full working model of **Quantum Information Geometry** — also known as **QIR** — a framework that extends General Relativity by introducing a foundational mechanism of curvature based on structural memory and information flow.
+General Relativity describes how mass curves spacetime — but fails to explain certain gravitational phenomena without invoking dark matter or energy. QIR offers a testable alternative: curvature emerges from the coherence of a system’s structural memory, derived from first principles.
 
-Where GR tells us **how** mass curves spacetime,  
-QIR explains **why** mass generates curvature in the first place.
-
-> QIR proposes that curvature arises not from mass alone,  
-> but from the system’s **memory of transformation**, quantified by the coherence field \( I \).
+This repository presents the full implementation of **Quantum Information Geometry (QIR)** — a model that explains spacetime curvature as the result of a system’s memory of transformation (its internal structural coherence), rather than mass alone. In regions where General Relativity cannot match observation using visible matter, QIR uses measurable information coherence to predict curvature from the system’s formation history.
 
 ---
 
@@ -67,7 +63,7 @@ All core predictions were verified using real galaxy data:
 
 > 📌 Data and comparison results are provided in `/tests_and_data/lensing_comparison.csv`
 
-QIR matches observations *without requiring dark matter or dark energy.*
+QIR reproduces observed phenomena *without invoking dark matter or dark energy.*
 
 ---
 
