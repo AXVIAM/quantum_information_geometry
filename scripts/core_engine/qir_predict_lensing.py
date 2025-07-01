@@ -7,8 +7,8 @@ Purpose: Predict angular deflection of light due to mass and information curvatu
 """
 
 import numpy as np
-from memory_function_phase import I_phase
-from qir_curvature_model import qir_curvature
+from core_engine.memory_function_phase import I_phase
+from core_engine.qir_curvature_model import qir_curvature
 
 def predict_lensing_angle(M, D, I_val=None, alpha=0.000195, use_I_model=False, t=200):
     """
