@@ -127,12 +127,7 @@ Pull requests, issues, and community testing are welcomed.
 
 ## 💬 Contact
 
-For correspondence: **axviam.contact [at] proton.me**  
-Or visit: **[https://axviam.org](https://axviam.org)**
+For correspondence: 
+Christopher P. B. Smolen
+**axviam@proton.me**  
 
----
-
-## 🛡️ AXVIAM PBC
-
-This work is published under a Public Benefit Corporation mission:  
-To restore clarity and coherence to the systems that shape our reality.
