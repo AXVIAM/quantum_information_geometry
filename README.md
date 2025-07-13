@@ -3,7 +3,6 @@
 **Author:** Christopher Patrick Booth Smolen  
 **Affiliation:** AXVIAM PBC  
 **License:** Apache 2.0  
-**Repository:** [https://github.com/axviam/quantum-information-geometry](https://github.com/axviam/quantum-information-geometry)
 
 ---
 
